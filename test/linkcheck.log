@@ -1,0 +1,10 @@
+{"people": ["Mrs. Casaubon", "Mr. Casaubon"], "action_status": "started", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "honeymoon", "task_level": [1]}
+{"place": "Rome, Italy", "action_status": "started", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 1]}
+{"place": "Vatican Museum", "action_status": "started", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 1]}
+{"place": "Statue #1", "action_status": "started", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 2, 1]}
+{"action_status": "succeeded", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 2, 2]}
+{"place": "Statue #2", "action_status": "started", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 3, 1]}
+{"action_status": "succeeded", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 3, 2]}
+{"action_status": "succeeded", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 2, 4]}
+{"action_status": "succeeded", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "visited", "task_level": [2, 3]}
+{"action_status": "succeeded", "timestamp": 1593766243.0777693, "task_uuid": "4f6ac86e-8c40-4ddb-8865-aa81679d3c18", "action_type": "honeymoon", "task_level": [3]}
